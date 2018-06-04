@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="WpfApplication3.Views.TaskListViewControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="530">
+    <Border Background="{StaticResource WordOrangeBrush}">
+        <Grid>
+            <Grid.Background>
+                <ImageBrush TileMode="Tile" ImageSource="/Images/background.jpg"/>
+            </Grid.Background>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Background="{StaticResource WordTransparentBlueBrush}" Margin="5 5 5 5">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Background="{StaticResource WordTransparentBlueBrush}" Grid.Column="0" Tag="Insert your new task content here ..." 
+                             FontSize="{StaticResource FontSizeLarge}" FontFamily="{StaticResource LatoRegular}" Foreground="{StaticResource ForegroundVeryDarkBrush}"  
+                             Text="{Binding NewTask.Content, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <Button Grid.Column="1" Foreground="{StaticResource WordGreenBrush}" FontSize="50" Style="{StaticResource IconButton}" Margin="0 0 0 5" Content="{StaticResource FontAwesomeTickIcon}" Command="{Binding _AddNewTaskCommand}"/>
+                </Grid>
+            </Border>
+
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+                    <ItemsControl Grid.Row="1" ItemsSource="{Binding Tasks}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel Orientation="Vertical"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <StackPanel Grid.Column="0" Orientation="Horizontal">
+                                        <Button FontSize="100" Foreground="{StaticResource WordRedBrush}" Style="{StaticResource IconButton}" Content="{StaticResource FontAwesomeTimesIcon}" Command="{Binding DataContext._DeleteTaskCommand, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ItemsControl}}" CommandParameter="{Binding Id}"/>
+                                        <Button FontSize="100" Foreground="{StaticResource WordGreenBrush}" Style="{StaticResource IconButton}" Content="{StaticResource FontAwesomeEditIcon}" Command="{Binding DataContext._EditTaskCommand, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ItemsControl}}" CommandParameter="{Binding Id}"/>
+                                        <Border OpacityMask="#EA888888" Background="{StaticResource ForegroundLightBrush}" CornerRadius="10" Padding="5 5 5 5" Margin="5 5 5 0">
+                                            <Grid>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*"/>
+                                                </Grid.ColumnDefinitions>
+                                                <TextBlock Grid.Column="0" Text="{Binding Content, Mode=TwoWay}" FontSize="{StaticResource FontSizeLarge}" FontFamily="{StaticResource LatoRegular}" Foreground="{StaticResource ForegroundVeryDarkBrush}"/>
+                                            </Grid>
+                                        </Border>
+                                    </StackPanel>
+
+                                    <Border Visibility="{Binding IsEditing}" Background="{StaticResource WordRedBrush}" CornerRadius="10" Padding="5 5 5 5" Margin="5 5 5 0">
+                                        <StackPanel Grid.Column="0" Visibility="{Binding IsEditing}" Orientation="Horizontal">
+                                            <Button FontSize="100" Style="{StaticResource IconButton}" Content="{StaticResource FontAwesomeTickIcon}" Command="{Binding DataContext._EditTaskCommand, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ItemsControl}}" CommandParameter="{Binding Id}"/>
+                                            <TextBox Grid.Column="0" Text="{Binding Content, Mode=TwoWay}"  Background="{StaticResource WordTransparentBlueBrush}" Tag="Insert your new task content here ..." FontSize="{StaticResource FontSizeLarge}" FontFamily="{StaticResource LatoRegular}" Foreground="{StaticResource ForegroundVeryDarkBrush}"/>
+                                        </StackPanel>
+                                    </Border>
+
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+            </ScrollViewer>
+
+
+            <Border Grid.Row="2" Background="{StaticResource WordTransparentBlueBrush}" CornerRadius="10" Margin="5 5 5 5">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="1" Style="{StaticResource DeleteButton}" Content="Delete All" Command="{Binding _DeleteAllTaskCommand}"/>
+                </Grid>
+            </Border>
+
+        </Grid>
+    </Border>
+</UserControl>

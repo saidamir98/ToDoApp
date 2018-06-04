@@ -1,0 +1,88 @@
+c:\users\steve\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.dll
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.xml
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\STEVE\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Styles\Buttons.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Styles\Colors.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Styles\Fonts.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Styles\Texts.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.dll
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.xml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Styles\Buttons.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Styles\Colors.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Styles\Fonts.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Styles\Texts.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Styles\Windows.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListView.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListView.g.cs
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\STEVE\Documents\Visual Studio 2013\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListViewControl.baml
+C:\Users\STEVE\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListViewControl.g.cs
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.dll
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.dll
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.xml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\System.Data.SQLite.xml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Styles\Buttons.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Styles\Colors.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Styles\Fonts.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Styles\Texts.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListViewControl.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Views\TaskListViewControl.g.cs
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.manifest
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.application
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe.manifest
+C:\Users\STEVE\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.application
